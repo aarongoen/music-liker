@@ -7,3 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 composers = Composer.create([{ name: 'Johann Sebastian Bach'}, { name: 'Frederic Chopin'}, { name: 'Bela Bartok'}])
 pieces = Piece.create([{name: 'Invention 13'}, {name: 'Goldberg Variations'}, { name: 'Revolutionary Etude' }, { name: 'Fantasy Impromptu'}, {name: 'Mikrokosmos'}, {name: 'The Bear'}])
+
+#here's a comment
